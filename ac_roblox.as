@@ -1,4 +1,4 @@
-//packageName.as//
+//ac_roblox.as//
 {
   "version":"1",
   "source":"https://github.com/idgafboom/autoclicker_roblox/releases/download/aa/ac_roblox_ahk.zip",
